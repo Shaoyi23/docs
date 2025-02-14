@@ -1,11 +1,10 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
 hero:
-  name: "My Awesome Project"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  name: "MRT文档项目"
+  text: "-------"
+  tagline: --=-=-=-=-=-=-==-===
   actions:
     - theme: brand
       text: Markdown Examples
